@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Summary>
+[Mobile] Android: The content is not translated to English in the “Tutorial” tab.
+    </Summary>
+    <Description>
+The content is not translated to English in the “Tutorial” tab.
+    </Description>
+    <StepsToReproduce>
+        <one> Open the app.</one>
+        <two> Tap the “Control” button.</two>
+        <three> Tap the “Tutorial” button.</three> 
+        <four> Pay attention to the screen.</four>
+        </StepsToReproduce>
+<ActualResult>
+The content is not translated to English in the “Tutorial” tab.
+</ActualResult>
+<ExpectedResult> 
+ The content is translated to English in the “Tutorial” tab.
+ </ExpectedResult> 
+ </root>
