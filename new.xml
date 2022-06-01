@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<name>Michael D.</name>
+	<age>24</age>
+	<pets count="2">
+		<pet>Cat</pet>
+		<pet>Dog</pet>
+	</pets>
+	<FutureSalary>10000$</FutureSalary>
+</root>
